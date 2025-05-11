@@ -1,4 +1,4 @@
-# ReNew Notebooks
+# ReNew Notebooks by Edgar Hamilton
 
 A server-side web application for ReNew Ltd., a company selling refurbished notebooks.
 
